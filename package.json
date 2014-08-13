@@ -1,0 +1,30 @@
+{
+  "name": "grunt-contrib-outdated",
+  "version": "0.0.0",
+  "description": "Grunt plugin to check for outdated dependencies on package.json.",
+  "main": "tasks/index.js",
+  "scripts": {
+    "test": "grunt test && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:auth0/grunt-contrib-outdated.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/auth0/grunt-contrib-outdated/issues"
+  },
+  "homepage": "https://github.com/auth0/grunt-contrib-outdated",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.3.3",
+    "grunt-run-grunt": "^0.1.4"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  }
+}

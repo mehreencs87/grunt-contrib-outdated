@@ -1,0 +1,11 @@
+{
+  "name": "test123",
+  "version": "0.0.2",
+  "dependencies": {
+    "winston": "0.7.3"
+  },
+  "devDependencies": {
+    "grunt-contrib-nodeunit": "^0.4.1"
+  }
+}
+
