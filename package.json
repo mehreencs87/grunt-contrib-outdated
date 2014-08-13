@@ -1,6 +1,6 @@
 {
   "name": "grunt-contrib-outdated",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Grunt task to check for outdated dependencies on package.json.",
   "main": "tasks/index.js",
   "scripts": {
@@ -16,8 +16,7 @@
     "url": "https://github.com/auth0/grunt-contrib-outdated/issues"
   },
   "homepage": "https://github.com/auth0/grunt-contrib-outdated",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.0",
     "grunt-contrib-jshint": "~0.10.0",
