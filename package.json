@@ -1,7 +1,7 @@
 {
   "name": "grunt-contrib-outdated",
   "version": "0.0.0",
-  "description": "Grunt plugin to check for outdated dependencies on package.json.",
+  "description": "Grunt task to check for outdated dependencies on package.json.",
   "main": "tasks/index.js",
   "scripts": {
     "test": "grunt test && exit 1"
