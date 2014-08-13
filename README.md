@@ -26,6 +26,12 @@ Grunt task to check for [outdated NPM dependencies](https://www.npmjs.org/doc/cl
    
 ```
 
+### Tests
+
+```
+npm test
+```
+
 ### TODO
 
  * Add more flags
